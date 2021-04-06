@@ -26,4 +26,6 @@ Given that you have georeferenced satellite images and polygons depicting the ex
 ![](https://github.com/sefalab/gis_x_vision/blob/main/visualizations/gis_13.png)
 ![](https://github.com/sefalab/gis_x_vision/blob/main/visualizations/gis_8.png)
 
-## 
+## Some observations
+- Given that the vector(building) dataset is supposed to show the extent of real estate that is registered with the Government, some of these buildings may have not been built yet. We see this case in the groundtruth of the last 2 images above. In these cases, the model performs really well comparatively.
+
